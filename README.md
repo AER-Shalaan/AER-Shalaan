@@ -5,7 +5,7 @@
 ### Mobile Developer | Flutter Specialist 🚀
 
 <p>
-  <a href="mailto:abdelrahman.shalaan03@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdelrahman.shalaan03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abdel-rahman-shalaan-849069307" target="_blank">
@@ -83,38 +83,24 @@
 
 ### 💻 Featured Projects
 
-* **[Smart AI Fitness — Personal Training & Nutrition Tracker](https://github.com/AER-Shalaan/fitness-app)**  
-  Architected an AI-powered fitness mobile app following Clean Architecture & MVI pattern[cite: 1]. Integrated **Ollama AI LLM** for a "Smart Coach" feature with local chat history caching in **Hive DB**, YouTube video player integration, offline caching via Dio Cache Interceptor, and multi-language support (AR/EN)[cite: 1].
+* **[Smart AI Fitness — Personal Training & Nutrition Tracker](https://github.com/ahmedmohsen087/fitness-app)**  
+  Architected an AI-powered fitness mobile app following Clean Architecture & MVI pattern. Integrated **Ollama AI LLM** for a "Smart Coach" feature with local chat history caching in **Hive DB**, YouTube video player integration, offline caching via Dio Cache Interceptor, and multi-language support (AR/EN).
 
-* **[Flowery Rider — Real-Time Logistics & Delivery Tracking App](https://github.com/AER-Shalaan/tracking-app)**  
-  Built a real-time driver companion application[cite: 1]. Engineered continuous background GPS tracking, dynamic polyline routing with **Open Source Routing Machine (OSRM)** and **flutter_map**, and streamed real-time coordinates directly to **Firebase Cloud Firestore**[cite: 1].
+* **[Flowery Rider — Real-Time Logistics & Delivery Tracking App](https://github.com/ahmedmohsen087/tracking-app)**  
+  Built a real-time driver companion application. Engineered continuous background GPS tracking, dynamic polyline routing with **Open Source Routing Machine (OSRM)** and **flutter_map**, and streamed real-time coordinates directly to **Firebase Cloud Firestore**.
 
-* **[Flowery — E-Commerce Flower Delivery App](https://github.com/AER-Shalaan/flower-app)**  
-  Full e-commerce delivery application built with Clean Architecture[cite: 1]. Features dynamic Address Management via Google Maps SDK, reactive Cart with optimistic UI & RxDart debouncing, Firebase FCM push notifications, and a full automated **CI/CD pipeline (Fastlane & GitHub Actions)**[cite: 1].
+* **[Flowery — E-Commerce Flower Delivery App](https://github.com/ahmedmohsen087/flower-app)**  
+  Full e-commerce delivery application built with Clean Architecture. Features dynamic Address Management via Google Maps SDK, reactive Cart with optimistic UI & RxDart debouncing, Firebase FCM push notifications, and a full automated **CI/CD pipeline (Fastlane & GitHub Actions)**.
 
 ---
 
 ### 🎓 Education
 
-* **Bachelor's Degree in Computer Science** — Modern Academy Maadi[cite: 1]
-  * **GPA:** 3.2 / 4.0 (Very Good)[cite: 1]
-  * **Timeline:** Sep 2021 – Jul 2025 | Cairo, Egypt[cite: 1]
+* **Bachelor's Degree in Computer Science** — Modern Academy Maadi
+  * **GPA:** 3.2 / 4.0 (Very Good)
+  * **Timeline:** Sep 2021 – Jul 2025 | Cairo, Egypt
 
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:abdelrahman.shalaan03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdel-rahman-shalaan-849069307" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AER-Shalaan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
 
 <div align="center">
   <sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories and reach out.</sub>
